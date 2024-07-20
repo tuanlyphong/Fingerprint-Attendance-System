@@ -1,0 +1,49 @@
+C:\Users\tuanphong\Desktop\Fingerprint-attendance-5\Fingerprint attendance\bin\Debug\net8.0-windows\Fingerprint attendance.exe
+C:\Users\tuanphong\Desktop\Fingerprint-attendance-5\Fingerprint attendance\bin\Debug\net8.0-windows\script.sql
+C:\Users\tuanphong\Desktop\Fingerprint-attendance-5\Fingerprint attendance\bin\Debug\net8.0-windows\Fingerprint attendance.deps.json
+C:\Users\tuanphong\Desktop\Fingerprint-attendance-5\Fingerprint attendance\bin\Debug\net8.0-windows\Fingerprint attendance.runtimeconfig.json
+C:\Users\tuanphong\Desktop\Fingerprint-attendance-5\Fingerprint attendance\bin\Debug\net8.0-windows\Fingerprint attendance.dll
+C:\Users\tuanphong\Desktop\Fingerprint-attendance-5\Fingerprint attendance\bin\Debug\net8.0-windows\Fingerprint attendance.pdb
+C:\Users\tuanphong\Desktop\Fingerprint-attendance-5\Fingerprint attendance\bin\Debug\net8.0-windows\EPPlus.dll
+C:\Users\tuanphong\Desktop\Fingerprint-attendance-5\Fingerprint attendance\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+C:\Users\tuanphong\Desktop\Fingerprint-attendance-5\Fingerprint attendance\bin\Debug\net8.0-windows\EPPlus.System.Drawing.dll
+C:\Users\tuanphong\Desktop\Fingerprint-attendance-5\Fingerprint attendance\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\tuanphong\Desktop\Fingerprint-attendance-5\Fingerprint attendance\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tuanphong\Desktop\Fingerprint-attendance-5\Fingerprint attendance\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\tuanphong\Desktop\Fingerprint-attendance-5\Fingerprint attendance\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\tuanphong\Desktop\Fingerprint-attendance-5\Fingerprint attendance\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\tuanphong\Desktop\Fingerprint-attendance-5\Fingerprint attendance\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\tuanphong\Desktop\Fingerprint-attendance-5\Fingerprint attendance\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\tuanphong\Desktop\Fingerprint-attendance-5\Fingerprint attendance\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\tuanphong\Desktop\Fingerprint-attendance-5\Fingerprint attendance\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\tuanphong\Desktop\Fingerprint-attendance-5\Fingerprint attendance\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\tuanphong\Desktop\Fingerprint-attendance-5\Fingerprint attendance\bin\Debug\net8.0-windows\System.IO.Ports.dll
+C:\Users\tuanphong\Desktop\Fingerprint-attendance-5\Fingerprint attendance\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\tuanphong\Desktop\Fingerprint-attendance-5\Fingerprint attendance\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\tuanphong\Desktop\Fingerprint-attendance-5\Fingerprint attendance\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\tuanphong\Desktop\Fingerprint-attendance-5\Fingerprint attendance\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\tuanphong\Desktop\Fingerprint-attendance-5\Fingerprint attendance\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\tuanphong\Desktop\Fingerprint-attendance-5\Fingerprint attendance\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\tuanphong\Desktop\Fingerprint-attendance-5\Fingerprint attendance\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\tuanphong\Desktop\Fingerprint-attendance-5\Fingerprint attendance\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\tuanphong\Desktop\Fingerprint-attendance-5\Fingerprint attendance\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tuanphong\Desktop\Fingerprint-attendance-5\Fingerprint attendance\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tuanphong\Desktop\Fingerprint-attendance-5\Fingerprint attendance\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.IO.Ports.dll
+C:\Users\tuanphong\Desktop\Fingerprint-attendance-5\Fingerprint attendance\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.IO.Ports.dll
+C:\Users\tuanphong\Desktop\Fingerprint-attendance-5\Fingerprint attendance\obj\Debug\net8.0-windows\Fingerprint attendance.csproj.AssemblyReference.cache
+C:\Users\tuanphong\Desktop\Fingerprint-attendance-5\Fingerprint attendance\obj\Debug\net8.0-windows\Fingerprint_attendance.AttendanceForm.resources
+C:\Users\tuanphong\Desktop\Fingerprint-attendance-5\Fingerprint attendance\obj\Debug\net8.0-windows\Fingerprint_attendance.DashboardForm.resources
+C:\Users\tuanphong\Desktop\Fingerprint-attendance-5\Fingerprint attendance\obj\Debug\net8.0-windows\Fingerprint_attendance.LoginForm.resources
+C:\Users\tuanphong\Desktop\Fingerprint-attendance-5\Fingerprint attendance\obj\Debug\net8.0-windows\Fingerprint_attendance.RegistrationForm.resources
+C:\Users\tuanphong\Desktop\Fingerprint-attendance-5\Fingerprint attendance\obj\Debug\net8.0-windows\Fingerprint_attendance.wifi.resources
+C:\Users\tuanphong\Desktop\Fingerprint-attendance-5\Fingerprint attendance\obj\Debug\net8.0-windows\Fingerprint attendance.csproj.GenerateResource.cache
+C:\Users\tuanphong\Desktop\Fingerprint-attendance-5\Fingerprint attendance\obj\Debug\net8.0-windows\Fingerprint attendance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuanphong\Desktop\Fingerprint-attendance-5\Fingerprint attendance\obj\Debug\net8.0-windows\Fingerprint attendance.AssemblyInfoInputs.cache
+C:\Users\tuanphong\Desktop\Fingerprint-attendance-5\Fingerprint attendance\obj\Debug\net8.0-windows\Fingerprint attendance.AssemblyInfo.cs
+C:\Users\tuanphong\Desktop\Fingerprint-attendance-5\Fingerprint attendance\obj\Debug\net8.0-windows\Fingerprint attendance.csproj.CoreCompileInputs.cache
+C:\Users\tuanphong\Desktop\Fingerprint-attendance-5\Fingerprint attendance\obj\Debug\net8.0-windows\Fingerpr.18E08098.Up2Date
+C:\Users\tuanphong\Desktop\Fingerprint-attendance-5\Fingerprint attendance\obj\Debug\net8.0-windows\Fingerprint attendance.dll
+C:\Users\tuanphong\Desktop\Fingerprint-attendance-5\Fingerprint attendance\obj\Debug\net8.0-windows\refint\Fingerprint attendance.dll
+C:\Users\tuanphong\Desktop\Fingerprint-attendance-5\Fingerprint attendance\obj\Debug\net8.0-windows\Fingerprint attendance.pdb
+C:\Users\tuanphong\Desktop\Fingerprint-attendance-5\Fingerprint attendance\obj\Debug\net8.0-windows\Fingerprint attendance.genruntimeconfig.cache
+C:\Users\tuanphong\Desktop\Fingerprint-attendance-5\Fingerprint attendance\obj\Debug\net8.0-windows\ref\Fingerprint attendance.dll
